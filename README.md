@@ -3,6 +3,8 @@
 ## 実行の仕方
 - コマンドプロンプトでAnacondaのパスをsetし、python fimename.pyで実行ファイルを実行する
 ## 依存ライブラリとバージョン
+- openCV 4.1.0
+- matplotlib 3.0.3
 ## 参考にしたサイト
 - コード
     - URL:https://ensekitt.hatenablog.com/entry/2017/12/19/200000 [Python+OpenCVでWebカメラの画像を取り込んで処理して表示する話 - EnsekiTT Blog]
