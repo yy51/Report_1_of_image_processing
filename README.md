@@ -1,7 +1,9 @@
-## 使い方
-- 実行の仕方に同じ
+## 概要
+- これはOpenCVでカメラ画像を取得し，毎フレームの輝度の平均値を出力し、グラフにプロットするプログラムです．
 ## 実行の仕方
-- コマンドプロンプトでAnacondaのパスをsetし、python fimename.pyで実行ファイルを実行する
+- コマンドプロンプトでAnacondaのパスをsetし、python fimename.pyで実行ファイルを実行する．
+## 使い方
+- 実行の仕方に同じ．
 ## 依存ライブラリとバージョン
 - openCV 4.1.0
 - matplotlib 3.0.3
@@ -16,6 +18,6 @@
     - URL:https://convertio.co/ja/mp4-gif/MP4 [ GIF 変換。オンライン フリー — Convertio]
 - Githubへのgifアニメーションの貼り付け
     - URL:http://uchimanajet7.hatenablog.com/entry/2017/08/14/083001[GitHub のREADME にgif 画像を表示する1番簡単な方法 #github #gif - uchimanajet7のメモ]
-    
+
 ## 実行の様子(gifアニメーション)
 ![graph](https://user-images.githubusercontent.com/52147503/61596917-67c18480-ac44-11e9-9750-35ac471570f3.gif)
